@@ -1,0 +1,34 @@
+THE EVENT LOG:
+
+04:00:00 main instantiated clock
+04:00:00 ThreadPlanner instantiated.
+04:00:00 Common Clock Thread started, paused= true
+04:00:00 Arrivals process for BE2101 instantiated. n=73 Start = 04:00:00 EndTime = 05:10:00
+04:00:00 Starting Arrivals BE2101 Thread @ 2020-06-03T04:00:00Z
+04:00:00 Arrivals process for LM313 instantiated. n=11 Start = 04:00:00 EndTime = 05:20:00
+04:00:00 Starting Arrivals LM313 Thread @ 2020-06-03T04:00:00Z
+04:00:00 Arrivals process for FR6266 instantiated. n=160 Start = 04:00:00 EndTime = 05:40:00
+04:00:00 Starting Arrivals FR6266 Thread @ 2020-06-03T04:00:00Z
+04:00:00 Arrivals process for BE290 instantiated. n=71 Start = 04:00:00 EndTime = 05:55:00
+04:00:00 Starting Arrivals BE290 Thread @ 2020-06-03T04:00:00Z
+04:00:00 Arrivals process for U2802 instantiated. n=147 Start = 04:00:00 EndTime = 06:10:00
+04:00:00 Starting Arrivals U2802 Thread @ 2020-06-03T04:00:00Z
+04:00:00 Arrivals process for LH965 instantiated. n=150 Start = 04:00:00 EndTime = 06:20:00
+04:00:00 Starting Arrivals LH965 Thread @ 2020-06-03T04:00:00Z
+04:00:00 Arrivals process for U26961 instantiated. n=150 Start = 04:00:00 EndTime = 06:35:00
+04:00:00 Starting Arrivals U26961 Thread @ 2020-06-03T04:00:00Z
+04:00:00 Arrivals process for BA8711 instantiated. n=90 Start = 04:00:00 EndTime = 06:50:00
+04:00:00 Starting Arrivals BA8711 Thread @ 2020-06-03T04:00:00Z
+04:00:00 Arrivals process for LM361 instantiated. n=40 Start = 04:00:00 EndTime = 07:10:00
+04:00:00 Starting Arrivals LM361 Thread @ 2020-06-03T04:00:00Z
+04:00:00 Arrivals process for FR6624 instantiated. n=159 Start = 04:10:00 EndTime = 07:30:00
+04:00:00 Check-in desk 1 is open.
+04:00:00 Check-in desk 2 is open.
+04:00:00 Check-in desk 3 is open.
+
+04:00:00 Clock unpaused.
+04:00:00Self Check In server open
+04:00:00 Arrivals FR6266 No 0 Carlo id= 2 with bag type : COMPACT has arrived & joined the CheckIn queue.
+04:00:44 Check-in desk 2-Carlo Cowing checking in for flight FR6266
+04:00:47 Clock paused.
+

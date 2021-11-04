@@ -1,0 +1,9 @@
+Time,Flight,Destination,Airline,Aircraft2,Cpassengers,Cweight,Cvolume
+06:55,FR2376,Berlin (SXF),Ryanair,737,25,85,0.6
+XX:XX,SN2066,Brussels (BRU),Brussels Airlines,A319,5,75,0.4
+06:30,BA2507,London (LGW),British Airways,A320,X,Y,Z
+06:30,BE2101,London (LHR),Flybe,DH4,4.5,11,8.1
+08:30,AF1887,Paris (CDG),Air France,A320,25,85,0.6
+05:50,KL1276,Amsterdam (AMS),KLM,B738,25,170,1.1
+09:00,U2490,Belfast (BFS),easyJet,A320,150,2550,17.4
+07:00,U26903,Geneva (GVA),easyJet,A320,150,2550,17.4

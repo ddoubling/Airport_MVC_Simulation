@@ -1,0 +1,31 @@
+Time,Flight,Destination,Airline,Aircraft2,Cpassengers,Cweight,Cvolume
+05:50,BE2101,London (LHR),Flybe,DH4,70,1190,8.1
+06:00,LM313,Isle of Man (IOM),Loganair,SF3,30,510,3.5
+06:20,FR6266,Barcelona (BCN),Ryanair,737,162,2754,18.8
+06:35,BE290,Manchester (MAN),Flybe,DH4,70,1190,8.1
+06:50,U2802,London (LGW),easyJet,A320,150,2550,17.4
+07:00,LH965,Frankfurt (FRA),Lufthansa,A320,150,2550,17.4
+07:15,U26961,Prague (PRG),easyJet,A320,150,2550,17.4
+07:30,BA8711,London (LCY),British Airways,E90,95,1615,11
+07:50,LM361,East Midlands (EMA),Loganair,ER4,44,748,5.1
+08:10,FR6624,Krakow (KRK),Ryanair,737,162,2754,18.8
+08:30,U23386,Venice (VCE),easyJet,A320,150,2550,17.4
+08:50,BA1455,London (LHR),British Airways,A319,150,2550,17.4
+09:00,U26925,Amsterdam (AMS),easyJet,A319,150,2550,17.4
+09:10,BE294,Manchester (MAN),Flybe,DH4,70,1190,8.1
+09:20,BE1343,London (LCY),Flybe,DH4,70,1190,8.1
+09:30,LS775,Alicante (ALC),Jet2,737,162,2754,18.8
+09:35,FR1017,Budapest (BUD),Ryanair,737,162,2754,18.8
+09:45,BE769,Southampton (SOU),Flybe,DH4,70,1190,8.1
+10:00,BY1576,Tenerife (TFS),TUI Airways,737,162,2754,18.8
+10:05,FR5834,Milan (BGY),Ryanair,737,162,2754,18.8
+10:10,SN2064,Brussels (BRU),Brussels Airlines,A319,150,2550,17.4
+10:20,W61408,Warsaw (WAW),Wizz Air,A321,180,3060,20.9
+10:35,DL209,New York (JFK),Delta Air Lines,B752,250,4250,29
+10:40,U26911,Munich (MUC),easyJet,A320,150,2550,17.4
+10:55,KL1280,Amsterdam (AMS),KLM,E190,100,1700,11.6
+11:15,BE2111,London (LHR),Flybe,DH4,70,1190,8.1
+11:30,BE211,Exeter (EXT),Flybe,DH4,70,1190,8.1
+11:45,EI3253,Dublin (DUB),Aer Lingus,AT7,78,1326,9
+11:55,U26955,Paris (CDG),easyJet,A320,150,2550,17.4
+12:00,U2490,Belfast (BFS),easyJet,A320,150,2550,17.4
